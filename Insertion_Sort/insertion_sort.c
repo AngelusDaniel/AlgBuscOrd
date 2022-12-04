@@ -4,6 +4,10 @@
 
 void insertion_sort(int vet[], int tam);
 
+
+//O vetor é percorrido da esquerda para a direita
+//indentificanto o menor valor de vet[] e o deslocando 
+//para esquerda
 int main()
 {
   int vet[] = {4,5,3,2,6,7,1,8,9,10};
