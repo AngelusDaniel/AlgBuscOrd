@@ -1,5 +1,9 @@
 #include <stdio.h>
 //Algoritimo Selection Sort
+
+//O vet[] é percorrido, passando o maior
+//valor para vet[0], depois o segundo
+//maior para vet[1], e assim por diante.
 int main()
 {
   int vet[] = {5, 9, 7, 6, 4, 0, 2, 3, 8, 1};
